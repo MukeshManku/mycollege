@@ -1,0 +1,357 @@
+#admin_img
+{
+    height: 200px;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+
+#admin_img img
+{
+    height: 180px;
+    width: 200px;
+    padding-top: 10px;
+    display: inline-block;
+    float: left;
+    margin-left: 6%;
+}
+#admin_img h1
+{
+    padding: 80px 0px 0px 60px;
+    display: inline-block;
+    color: brown;
+}
+
+#nav_img_admin
+{
+  width: 69.8%;
+    display: inline-block;
+    height: 470px;
+   
+}
+#nav_img_admin a
+{
+    display: inline-block;
+    font-size: 14px;
+    line-height: 180px;
+    text-align: center;
+    width: 100%;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #7a081c;
+    
+}
+#nav_img_admin #sec1
+{
+   width: 25%;
+    display: inline-block;
+    height: 180px;
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: 20px;
+    background-image: url(image/user.png);
+    background-size: cover;
+    opacity: .7;
+   
+}
+#nav_img_admin #sec2
+{
+   width: 25%;
+    display: inline-block;
+    height: 180px;
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: 20px;
+     background-image: url(image/user.png);
+    background-size: cover;
+    opacity: .7;
+   
+}
+#sec1_ajest
+{
+
+    text-align: center;
+}
+#sec2_ajest
+{
+    
+   
+    text-align: center;
+}
+
+#buttom_footer
+{
+    background-color: #0c4040c9;
+}
+#buttom_footer h1
+{
+    padding-top: 15px;
+}
+
+#stucontent
+{
+    height: 900px;
+}
+#stucontent #menu1
+{
+    width: 30%;
+    height: 900px;
+    float: left;
+    display: inline-block;
+    background-color:#47444a;
+}
+#menu1 ul
+{
+    
+    width: 100%;
+    margin-top: 40%;
+    display: block;
+}
+#menu1 ul li img:hover
+{
+    opacity: 0.7;
+}
+#menu1 ul li p:hover
+{
+    opacity: 0.5;
+}
+#menu1 ul li
+{
+    list-style: none;
+    height: 60px;
+    padding-left: 5%;
+    padding-top: 10px;
+    position: relative;
+}
+ #menu1 .navst p
+{ 
+   position:absolute;
+    top: 22px;
+    height: 30px;
+    width: 176px;
+    left: 77px;
+    font-family: Consolas;
+    color:#03539a;
+    text-align: center;
+    cursor: pointer;
+     line-height: 33px;
+    font-style: oblique;
+     font-size: 17px;
+     font-weight: bold;
+    word-spacing: -0.3em; 
+  
+ 
+}
+
+
+#admin #adminheder
+{
+    height: 60px;
+    width: 100%;
+    background-color:#47444a;
+}
+#admin #adminheder h1
+{
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-size: 28px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: Franklin Gothic Medium;
+}
+
+/*Admin login*/
+
+#admin_login
+{
+    border: 3px solid white;
+    height: 300px;
+    width: 40%;
+    margin:10% 30%;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+#admin_login h3
+{
+    height: 40px;
+    width: 90%;
+    text-align: center;
+    padding-top: 30px;
+    color:brown;
+}
+#admin_login p
+{
+   
+    width: 50%;
+    text-align: center;
+    padding-top: 10px;
+    color:brown; 
+}
+.uesr_admin input
+{
+  
+    width: 50%;
+    padding: 10px;
+    margin-left: 100px; 
+}
+.uesr_admin_sub input
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 30%;
+    padding: 5px;
+     margin-left: 100px;
+    background-color: coral;
+    cursor: pointer;
+    font-size: 15px;
+}
+.uesr_admin_sub input:hover
+{
+    color: red;
+    
+}
+/*---our team--*/
+#our_team
+{
+    height: 205px;
+    width: 205px;
+   
+    float: left;
+    display: inline-block;
+    margin: 20px 6%;
+   position: relative;
+    -moz-box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+}
+#our_team img
+{
+    border-radius: 50%;
+    border: 5px solid #b6de18;
+     position: relative;
+    -moz-box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.3);
+}
+#our_team_contener
+{
+    padding:50px 0px 150px 0px;
+    
+    
+}
+#our_team_line1
+{
+    
+    height: 300px;
+    width: 80%;
+    margin: 20px 15%;
+    
+}
+
+#team
+{
+    width: 200px;
+    height: 60px;
+   padding-top: 5px;
+    text-align: center;
+}
+
+/*--about--*/
+#about
+{
+    width: 60%;
+    height: auto;
+    margin: 40px 10%;
+    padding: 100px;
+}
+#about h1
+{
+    color:#08c2ff;;
+    font-size: 24px;
+    padding: 5px 0px;
+}
+
+/*---forget password--*/
+#forget_pass_stu
+{
+    
+    border: 3px solid white;
+    height: 300px;
+    width: 40%;
+    margin:10% 30%;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+#forget_pass_stu h3
+{
+    height: 40px;
+    width: 90%;
+    text-align: center;
+    padding-top: 30px;
+    color:brown;
+}
+
+#forget_pass_stu p
+{
+   
+    width: 20%;
+     margin-left: 100px;
+    padding-top: 10px 0px 6px 0px;
+    color:brown;
+    
+}
+.pass_recovery input
+{
+     width: 50%;
+    padding: 6px;
+    margin-left: 100px; 
+}
+.uesr_admin_sub input
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 30%;
+    padding: 5px;
+     margin-left: 100px;
+    background-color: coral;
+    cursor: pointer;
+    font-size: 15px;
+}
+.uesr_admin_sub input:hover
+{
+    color: red;
+    
+}
+
+#forget_pass_stu #btn
+{
+    height: 25px;
+    width: 80px;
+   
+    margin-left: 75%;
+    margin-top: 20px;
+    
+   
+}
+#forget_pass_stu #btn a
+{
+    display: block;
+    height: 25px;
+    color: white;
+    background-color: black;
+    text-align: center;
+     border: 3px solid white;
+    border-radius: 5px;
+    line-height: 25px;
+    text-decoration: none;
+     
+    
+}
+#forget_pass_stu #btn a:hover{
+    background-color: brown;
+    color: yellow;
+}

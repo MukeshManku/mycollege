@@ -1,0 +1,215 @@
+/*--addmission from style--*/
+
+#contener_staff_g
+{
+    
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 5%;
+     position: relative;
+    -moz-box-shadow: 5px 0px 5px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    background-color:blanchedalmond;   
+}
+#contener_staff_e
+{
+    
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 5%;
+     position: relative;
+    -moz-box-shadow: 5px 5px 0px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    background-color:blanchedalmond;   
+}
+#contener_staff_b
+{
+     height:1200px;
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 5%;
+     position: relative;
+    -moz-box-shadow: 5px 0px 5px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, .5);
+    background-color:blanchedalmond;   
+}
+.container
+{
+	  height:170px;
+	  width:100%;
+	  display:inline-block;
+	  
+}
+
+.rounded1 {
+		color:#979797;
+		background-color: #F9F9F9;
+	  border-radius: 8px;
+	  height:130px;
+	  width:90%;
+	  margin:2% 5%;
+	  padding-top:15px;
+		
+}
+.rounded1 p{
+	padding:5px 20px;
+	margin-top:20px;
+	
+}
+.rounded1 p1{
+	padding:5px 20px;
+}
+
+.container1
+{
+	  
+	  width:100%;
+	  display:inline-block;
+	  
+}
+
+.rounded2 {
+		color:#979797;
+        background-color: #F9F9F9;
+	  border-radius: 8px;
+	  padding-bottom: 40px;
+	  width:90%;
+	  margin:2% 5%;
+	  padding-top:15px;
+		
+}
+.rounded2 table
+{
+     border-collapse: collapse;
+    width: 96%;
+    margin:10px 20px;
+}
+
+.rounded2 tr {
+    
+    height: 30px;
+    border: 1px solid #dddddd;
+    
+}
+.rounded2 td {
+   line-height: 30px;
+    padding-left: 10px;
+    
+}
+.rounded3 {
+		color:#979797;
+        background-color: #F9F9F9;
+	  border-radius: 8px;
+	 padding-bottom: 40px;
+	  width:90%;
+	  margin:2% 5%;
+	  padding-top:15px;
+		
+}
+.rounded3 table
+{
+     border-collapse: collapse;
+    width: 96%;
+    margin:10px 20px;
+}
+
+.rounded3 tr {
+    
+    height: 30px;
+    border: 1px solid #dddddd;
+    
+}
+.rounded3 td {
+   line-height: 30px;
+    padding-left: 10px;
+    
+}
+.rounded4 {
+		color:#979797;
+        background-color: #F9F9F9;
+	  border-radius: 8px;
+	  height:850px;
+	  width:90%;
+	  margin:2% 5%;
+	  padding-top:15px;
+		
+}
+.rounded4 table
+{
+     border-collapse: collapse;
+    width: 96%;
+    margin:10px 20px;
+}
+
+.rounded4 tr {
+    
+    height: 30px;
+    border: 1px solid #dddddd;
+    
+}
+.rounded4 td {
+   line-height: 30px;
+    padding-left: 10px;
+    
+}
+#addform
+{
+    margin-top: 20px;
+}
+#addform table
+{
+  border: 1px solid #dddddd;  
+}
+#addform table tr
+{
+ border: none;   
+}
+#addform table td
+{
+     border: 1px solid #dddddd;
+    border-collapse: collapse;
+    border-width: 0 1px;
+}
+#addform table input
+{
+    border-color: #D7D7D7;
+    border-radius: 8px;
+    height: 20px;
+    padding-left: 5px;
+    
+}
+#addform table #Male,#Female,#parent,#Guardian
+{
+    position: relative;
+    top: 5px;
+}
+#addform #contactaddress
+{
+    border-color: #D7D7D7;
+    border-radius: 8px; 
+}
+
+#home
+{
+    text-decoration: none;
+    float: right;
+    margin: 20px 60px;
+	border:2px solid #d8cbcb;
+	background-color:#676364;
+	font-size:12px;
+	color:white;
+	border-radius:5px;
+	width:60px;
+	height:20px;
+	display:inline-block;
+	line-height:20px;
+	padding-left:20px;
+}
+#home:hover
+{
+	color:blue;
+	
+}

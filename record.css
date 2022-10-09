@@ -1,0 +1,318 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+  
+  
+}
+#aj
+{
+    
+    width: 100%;
+    display: block;
+	height:490px;
+	
+    overflow: scroll;
+       
+}
+#record_admin
+{
+    height: 100px;
+    width: 100%;
+    background-color: #0d0d42;
+    text-align: center;
+    
+    
+}
+#record_admin img
+{
+    height: 80px;
+    display: inline-block;
+    line-height: 100px;
+    padding-top: 10px;
+    border-radius: 50%;
+    
+    
+}
+#recordheding
+{
+    height: 40px;
+    width:100%;
+    background-color: cadetblue;
+    
+}
+#recordheding h1 a
+{
+     
+    text-align: center;
+    line-height: 40px;
+    color: white;
+       
+}
+
+#recordheding h1
+{
+  height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+   
+}
+#record table
+{
+   border: 1px solid black;
+    margin-top: 20px;
+   
+    background-color:darkgray;
+    font-size: 15px;
+    
+    
+}
+#record table th
+{
+  border: 1px solid black;
+   padding: 10px;
+    color: brown;
+    background-color: black;
+}
+#record table td
+{
+   border: 1px solid black;
+   padding: 10px;
+}
+.edit_btn
+{
+    padding: 5px 15px;
+    border: 2px solid white;
+    height: 40px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.edit_btn:hover
+{
+   color:coral;
+}
+.del_btn
+{
+   padding: 5px 15px;
+    border: 2px solid white;
+    height: 40px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+}
+.del_btn:hover
+{
+   color:black;
+}
+
+/*timetable*/
+#time_table
+{
+    height: 450px;
+    width: 100%;
+   
+}
+.set_time_table
+{
+  height: 300px;
+    width: 90%;
+
+    margin: 20px;
+    padding: 20px;
+}
+ #tableset1
+{
+    
+    margin-left: 20%;    
+  
+    width: 52%;
+    
+}
+#tableset1 table 
+{
+    color: white;
+    text-align: justify;
+    width: 100%;
+
+}
+#tableset1 table th
+{
+    width: 180px;
+    background-color: #373737;
+    padding: 5px 10px;
+}
+#tableset1 table select
+{
+    width: 200px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+ #tableset2
+{
+    
+    margin: 2% 20%;    
+  
+    width: 60%;  
+}
+#tableset2 table 
+{
+    color: white;
+    text-align: justify;
+    width: 100%;
+}
+#tableset2 table th
+{
+    width: 180px;
+    background-color: #373737;
+    padding: 5px 10px;
+}
+#tableset2 table select
+{
+   
+    padding: 3px;
+    cursor: pointer;
+}
+#addtime
+{
+    margin-left: 29%;
+    padding: 5px;
+    margin-top: 10px;
+}
+#addtime input
+{
+    width: 200px;
+    height: 30px;
+    font-size: 14px;
+    color: brown;
+    cursor: pointer;
+}
+#cantantsubject
+{
+   
+    height: 400px;
+    width: 100%;
+}
+#addsubject
+{
+    
+    height: 250px;
+    width: 50%;
+    margin: 40px 30%;
+}
+#addsubject a, h2
+{
+   
+    font-size: 18px;
+    color: azure;
+}
+.subadd table
+{
+    width: 100%;
+    color: white;
+}
+.subadd table td
+{
+    padding: 5px;
+    
+}
+#timeserch
+{
+   height: 150px;
+    width: 50%;
+    margin: 40px 30%; 
+    
+}
+
+#timecontener
+{
+
+    width: 100%;
+   
+}
+#timeserch table
+{
+    width: 100%;
+    color: white;
+    
+}
+#timeserch table th
+{
+    width: 20%;
+    color: white;
+    padding: 5px;
+}
+#timeserch table select
+{
+    width: 80%;
+    padding: 3px;
+}
+#timeserch input
+{
+   width: 20%;
+    padding: 3px; 
+    margin: 5px 140px;
+}
+#showtable
+{
+    padding-bottom: 60px;
+    width: 100%;
+    
+}
+#showtable table
+{
+     width: 90%;
+    margin-left: 5%;
+    color: white;
+}
+#showtable table th
+{
+   padding: 5px;
+    background-color: black;
+}
+.set_time_table a, h2
+{
+   
+    font-size: 18px;
+    color: azure;
+    
+}
+.set_time_table h2
+{
+    margin-left: 230px;
+    padding: 20px;
+}
+/*view time */
+
+#record1
+{
+    margin: 40px 0px 100px 100px;
+}
+
+#record1 table
+{
+   border: 1px solid black;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color:darkgray;
+    font-size: 15px;
+    
+    
+}
+#record1 table th
+{
+  border: 1px solid black;
+   padding: 10px;
+    color: white; 
+    background-color: black;
+}
+#record1 table td
+{
+   border: 1px solid black;
+   padding: 10px;
+    
+}

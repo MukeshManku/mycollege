@@ -1,0 +1,176 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+#clear{
+	clear:both;
+}
+body
+{
+	background-image:url("image/blue-background.jpg");
+    width: 1349px;
+	
+}
+#home
+{
+    text-decoration: none;
+    float: right;
+    margin: 20px 60px;
+	border:2px solid #d8cbcb;
+	background-color:#676364;
+	font-size:12px;
+	color:white;
+	border-radius:5px;
+	width:60px;
+	height:20px;
+	display:inline-block;
+	line-height:20px;
+	padding-left:20px;
+}
+#home:hover
+{
+	color:blue;
+	
+}
+
+.registration
+{
+	
+	border:1px solid #f5f5f5;
+	width:80%;
+	background-color:#f5f5f5;
+	margin-left:10%;
+	padding-bottom:10%;
+
+}
+.registration h2
+{
+	color:#6dbd1d;
+    height: 40px;
+	width:100%;
+	text-align:center;
+	margin-top:60px;
+    
+}
+.registration h4
+{
+	font-size: 20px;
+    height: 30px;
+	margin-left:21.8%;
+	color:#675d5a;
+	
+	
+}
+.registration form
+{
+	
+	margin-left:21.8%;
+
+	
+}
+.registration h3
+{
+	font-size: 16px;
+	line-height: 0.1;
+    height: 30px;
+    line-height: 39px;
+	color:#778899;
+}
+ 
+#registration_form
+{
+	width: 60%;
+	font-size: 16px;
+	font-family: serif;
+	height: 30px;
+	padding-left: 10px;
+	border-radius: 5px;
+}
+#registration_form1
+{
+	width: 28.7%;
+	
+	font-size: 16px;
+	font-family: serif;
+	height: 30px;
+	padding-left: 10px;
+	border-radius: 5px;
+	display:inline-block;
+	float:left;
+
+}
+#registration_form2
+{
+	width: 28.7%;
+	margin-left:10px;
+	font-size: 16px;
+	font-family: serif;
+	height: 30px;
+	padding-left: 10px;
+	border-radius: 5px;
+	display:inline-block;
+	float:left;
+	
+}
+#name_rasis
+{
+	display:inline-block;
+	float:left;
+	width:32%;
+}
+.name_rasis
+{
+	display:inline-block;
+	float:left;
+	width:30%;
+}
+.registration_form1
+{
+	width: 28.7%;
+	padding-top:10px;
+	font-size: 16px;
+	font-family: serif;
+	height: 30px;
+	border-radius: 5px;
+	display:inline-block;
+	float:left;
+
+}
+#registration_submit:hover{
+    color: red;
+}
+#registration_submit
+{
+	margin-top: 20px;
+	height: 30px;
+	width: 25%;
+	font-weight: 600;
+     cursor: pointer;
+    display: inline-block;
+	
+}
+.Already_registered
+{
+	padding-left: 10px;
+	
+}
+
+
+/*-error--*/
+
+.error {
+  width: 59%; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}

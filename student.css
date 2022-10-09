@@ -1,0 +1,394 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-image: url(image/STUBAC.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#clear
+{
+    clear: both;
+    
+}
+#stu_img
+{
+    height: 300px;
+    width: 75%;
+    
+    margin-left: 12%;
+    margin-top: 5%;
+}
+#stu_img img
+{
+    height: 300px;
+    
+}
+#login_sec
+{
+    height: 40px;
+    width: 100%;
+   
+}
+#login_sec ul
+{
+    
+    width: 25%;
+    height: 40px;
+    float: right;
+    margin-left: 30px; 
+    
+}
+#login_sec li
+{
+    
+    
+    list-style: none;
+    float: left;
+    margin-top: 30px; 
+    height: 12px;
+    position: relative;
+   
+    
+}
+#login_sec li i
+{
+    color: #fbfbfb7a;
+    font-size: 12px;
+    padding: 0px 3px;
+    position: absolute;
+    left: -5px;
+    top: 1px;
+    font-weight: 600;
+
+}
+#login_sec li i1
+{
+    color: #fbfbfb7a;
+    font-size: 12px;
+    padding: 0px 3px;
+    position: absolute;
+    left: 70px;
+    top: 1px;
+    font-weight: 600;
+
+}
+
+
+#login_sec li a
+{
+   text-align: justify;
+    display: inline-block;
+    width: 100%;
+    padding: 0px 5px;
+    text-decoration: none;
+    font-size: 15px;
+    
+
+    
+    
+}
+#stunav
+{
+    height: 30px;
+    width: 80%;
+    margin: 2% 10%;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+#stunav ul
+{
+    float: right;
+    margin-right: 8%;
+}
+#stunav li
+{
+    
+    width: auto;
+    margin: 5px 0px;
+    padding: 0px 5px;
+    list-style: none;
+    float: left;
+     border-left:1px solid blue;
+   
+    
+}
+#stunav li a
+{
+   text-align: justify;
+    color: black;
+   
+    
+}
+#stucontent
+{
+    height: 800px;
+    width: 80%;
+  
+    margin: 2% 10%;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+#stucontent #menu
+{
+    width: 30%;
+    height: 800px;
+    float: left;
+    display: inline-block;
+    background-color: #2f4f4f;
+    
+}
+#menu ul
+{
+    
+    width: 100%;
+    margin-top: 40%;
+    display: block;
+}
+#menu ul li img:hover
+{
+    opacity: 0.7;
+}
+#menu ul li p:hover
+{
+    opacity: 0.5;
+}
+#menu ul li
+{
+    list-style: none;
+    height: 60px;
+    padding-left: 5%;
+    padding-top: 10px;
+    position: relative;
+}
+ #menu .navst p
+{
+ 
+   
+   position:absolute;
+    top: 28px;
+    left: 50px;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    color: #080707d9;
+}
+ #menu .navst .drec
+{
+   position: absolute;
+    top: 24px;
+    left: 260px; 
+}
+/*--nav complit--*/
+
+
+#studetailheder
+{
+     height: 60px;
+    width: 100%;
+    background-color:#2f4f4f;
+   
+}
+#studetailheder h1
+{
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+#stu_detail_data
+{
+    width: 100%;
+    margin-top: 20px;
+   
+}
+.stu_headerdb
+{
+	width:100%;
+	height:30px;
+	background-color:#43B06780;
+}
+.stu_headerdb p
+{
+	line-height:30px;
+	padding-left:31%;
+    color: tomato;
+    text-decoration: underline;
+}
+#stu-photo
+{
+	width:20%;
+	height:180px;
+	float:right;
+	margin-top:20px;
+	display:inline-block;
+}
+#stu-photo img
+{
+    border: 1px solid black;
+}
+#s_detail_cover
+{
+    height: 260px;
+    width: 100%;
+    background-color: #d4b94d;
+}
+#stu_detail_data_record
+{
+	width:48%;
+	
+	float:left;
+}
+#s_detaildb
+{
+    border-collapse: collapse;
+    
+}
+#s_detaildb th
+{
+    text-align: justify;
+    padding:0px 20px;
+    height: 40px;
+    line-height: 40px;
+}
+#s_detaildb td
+{
+    text-align: justify;
+    padding:0px 20px;
+    height: 40px;
+    line-height: 40px;  
+}
+.stu_Addmission_db
+{
+    height: 60px;
+    width: 100%;
+    background-color: #d4b94d;
+}
+#stu_status
+{
+  
+    border-collapse: collapse;  
+}
+#stu_status th,td
+{
+   
+    height: 40px;
+    padding: 10px;
+}
+
+/*upload document*/
+#upload_doc
+{
+    height: 600px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: azure;
+}
+#upload_doc_header
+{
+    height: 40px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: cadetblue;
+}
+#upload_doc_header h2
+{
+    line-height: 40px;
+    padding-left: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+#back
+{
+    text-decoration: none;
+    float: right;
+    margin: 30px 60px 25px 60px;
+	border:2px solid #d8cbcb;
+	background-color:#676364;
+	font-size:12px;
+	color:white;
+	border-radius:5px;
+	width:60px;
+	height:20px;
+	display:inline-block;
+	line-height:20px;
+	padding-left:20px;
+}
+#back:hover
+{
+	color:blue;
+	
+}
+#uploadfile
+{
+    margin-top: 40px;
+}
+#photo_sec
+{
+   height: 300px;
+    margin-left:15%; 
+    width: 300px;
+    float: left;
+    background-color: bisque;
+}
+#upload_submit
+{
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+}
+#upload_submit input
+{
+    height: 40px;
+    width: 300px;
+    background-color: chocolate;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+#upload_submit input:hover
+{
+    color: firebrick;
+}
+#file_p
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #bcafa3;
+    margin:20px 40px;
+    
+}
+#file_s
+{
+    height: 100px;
+    width: 250px;
+    border: 2px solid #bcafa3;
+    margin:80px 20px 55px 20px;
+    
+}
+#photofile
+{
+    margin-left: 38px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+#sinefile
+{
+   margin-left: 20px; 
+     margin-right: 10px;
+    overflow: hidden;
+}
+
+
